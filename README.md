@@ -1,1 +1,1 @@
-# solucionesPr-cticas
+# solucionesPracticas
